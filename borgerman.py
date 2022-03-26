@@ -3,7 +3,7 @@ import discord
 import asyncio
 import factorial as ftl
 
-TOKEN = "OTQ3Njg3MDkwNjAxMjA5ODk2.Yhw4YQ.aWsPyUPwAUTK4llqPsiCzku0Pm8"
+TOKEN = "token goes here"
 
 
 
